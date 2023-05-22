@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="services.PersonFilterImplementationTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-05-15T13:34:41" hostname="US-23L5TQ3" time="0.029">
+  <properties/>
+  <testcase name="[1] (Person(firstName=Leona, lastName=Maguire, personValues=[]), false)" classname="services.PersonFilterImplementationTest" time="0.023"/>
+  <testcase name="[2] (Person(firstName=Notah, lastName=Begay, personValues=[RESPECTFUL, KIND]), false)" classname="services.PersonFilterImplementationTest" time="0.0"/>
+  <testcase name="[3] (Person(firstName=Sydney, lastName=Leroux, personValues=[RESPECTFUL, KIND, INSPIRING]), true)" classname="services.PersonFilterImplementationTest" time="0.0"/>
+  <testcase name="[4] (Person(firstName=Dan, lastName=Cnossen, personValues=[SKILLED, PASSIONATE, RESPECTFUL, KIND, INSPIRING]), true)" classname="services.PersonFilterImplementationTest" time="0.0"/>
+  <testcase name="[5] (Person(firstName=Gaby, lastName=Lopez, personValues=[RESPECTFUL, INSPIRING, SKILLED]), false)" classname="services.PersonFilterImplementationTest" time="0.0"/>
+  <testcase name="[6] (Person(firstName=Fred, lastName=Couples, personValues=[KIND, SKILLED, INSPIRING]), false)" classname="services.PersonFilterImplementationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
